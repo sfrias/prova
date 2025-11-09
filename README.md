@@ -1,1 +1,1 @@
-Aquest es el README al repo nou.
+Aquest es el README al repo.
